@@ -1,0 +1,266 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/wudi/.android/build-cache/c3ca6d2c83c7b144521bc55815ca1c7fa75f7452/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="/Users/wudi/resource/Tess-TwoDemo-master/app/build/intermediates/pre-dexed/debug/classes_eb5866bcbf7b5f008a2742ab2b2fff1ad49ba642.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/wudi/.android/build-cache/b4d33aaa95507453c06d2c642be50cd6dcf28a0a/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="/Users/wudi/resource/Tess-TwoDemo-master/app/build/intermediates/pre-dexed/debug/classes_90ef04c71979d0255bcc63c8993a56aa845771d9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/wudi/.gradle/caches/modules-2/files-2.1/ar.com.hjg/pngj/2.1.0/b9a0d5cca5108431c4068976e795d4d2766dab5b/pngj-2.1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b9a0d5cca5108431c4068976e795d4d2766dab5b">
+        <dex dex="/Users/wudi/resource/Tess-TwoDemo-master/app/build/intermediates/pre-dexed/debug/pngj-2.1.0_427c7576aab73e76d014972a6a1aa536b4e4e0da.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/wudi/.android/build-cache/53505c3bc86061355a1e09cdca35570df0869b5f/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c97af203125f33e014bc526b83653f962df31765">
+        <dex dex="/Users/wudi/resource/Tess-TwoDemo-master/app/build/intermediates/pre-dexed/debug/classes_69ebc1ef826cc2f5415376f3f02e079092c18c58.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/wudi/.gradle/caches/modules-2/files-2.1/io.reactivex.rxjava2/rxjava/2.1.0/2fdf84dedcaaeabb9d70cde9dbb8aad4eccb80a1/rxjava-2.1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2fdf84dedcaaeabb9d70cde9dbb8aad4eccb80a1">
+        <dex dex="/Users/wudi/resource/Tess-TwoDemo-master/app/build/intermediates/pre-dexed/debug/rxjava-2.1.0_4be886d834328466b0aef66adc96f4196686e1b4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/wudi/.gradle/caches/modules-2/files-2.1/com.alibaba/fastjson/1.2.29/2878958d7631337dcfe3bb4e541aa34478367e66/fastjson-1.2.29.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2878958d7631337dcfe3bb4e541aa34478367e66">
+        <dex dex="/Users/wudi/resource/Tess-TwoDemo-master/app/build/intermediates/pre-dexed/debug/fastjson-1.2.29_ddcfc0d030b2f2ec1143b34620a41c26870af7c3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/wudi/android-sdk/extras/android/m2repository/com/android/support/support-annotations/25.3.1/support-annotations-25.3.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="/Users/wudi/resource/Tess-TwoDemo-master/app/build/intermediates/pre-dexed/debug/support-annotations-25.3.1_9cbf033046d1044139c0815f563c9665542972dc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/wudi/.android/build-cache/cdeaed3026b4cc98e0585fed6fdcb5e616b8addc/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="/Users/wudi/resource/Tess-TwoDemo-master/app/build/intermediates/pre-dexed/debug/classes_189b3253eab888af692180b00ba3ed7c347264eb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/wudi/.android/build-cache/194fa29a0c290409529c3ef2580fbaf7e4c4e282/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="eb305d2ec1f85a4122c5e9d0412c87e20dac20f8">
+        <dex dex="/Users/wudi/resource/Tess-TwoDemo-master/app/build/intermediates/pre-dexed/debug/classes_92c38e9c82890d4e154866eb6398c24c64990c3a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/wudi/.android/build-cache/6d1b407a3080f692f623cbeb564b5bd0eb20f1ec/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="/Users/wudi/resource/Tess-TwoDemo-master/app/build/intermediates/pre-dexed/debug/classes_ba33901fb921e3e297746e6edc8c9bfc65dc5f77.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/wudi/.gradle/caches/modules-2/files-2.1/joda-time/joda-time/2.9.7/6eb2e87ddb09e944bb88f06f19ba0638d4607ffd/joda-time-2.9.7.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6eb2e87ddb09e944bb88f06f19ba0638d4607ffd">
+        <dex dex="/Users/wudi/resource/Tess-TwoDemo-master/app/build/intermediates/pre-dexed/debug/joda-time-2.9.7_af6cc86380cc044ac6f126aa2a24d7b1f2e4ee0c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/wudi/.android/build-cache/0b0238372be451fbcf2f8258d6810374cee8bae0/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/wudi/resource/Tess-TwoDemo-master/app/build/intermediates/pre-dexed/debug/classes_297f9d53c22c84bfe0f910a38c2f7a6618e20f61.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/wudi/.android/build-cache/819caf886a39a47cda7943c28e7254a3c98642ca/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2721eecf68da5567bfb40ca03160c9321ca026a1">
+        <dex dex="/Users/wudi/resource/Tess-TwoDemo-master/app/build/intermediates/pre-dexed/debug/classes_912c7b872c71e6d770fc7b6fb25a4d20ad08d527.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/wudi/android-sdk/extras/m2repository/com/android/support/constraint/constraint-layout-solver/1.0.2/constraint-layout-solver-1.0.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="/Users/wudi/resource/Tess-TwoDemo-master/app/build/intermediates/pre-dexed/debug/constraint-layout-solver-1.0.2_a89d69b0c567005278447b511d31ae929288fb87.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/wudi/.android/build-cache/f0c4bf77d694e676f08ea71c9891b0ea39c33af4/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="/Users/wudi/resource/Tess-TwoDemo-master/app/build/intermediates/pre-dexed/debug/classes_7fb4beeea293903fcfca0365a1e748c180b368b6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/wudi/.android/build-cache/b2c8518da1ee6bc0db3c8c926982130febb6b739/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="/Users/wudi/resource/Tess-TwoDemo-master/app/build/intermediates/pre-dexed/debug/classes_f5f85b311f1ee693d7564e128cd1dd702e12d367.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/wudi/.android/build-cache/c08f245f51d2e3b473092efba053467ecb6a5d9f/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="56bc0de8c5a09914b4ff847b250ae4f5cf92bd3e">
+        <dex dex="/Users/wudi/resource/Tess-TwoDemo-master/app/build/intermediates/pre-dexed/debug/classes_db8d2a34d6f7fbcfae4d6239059e6fbb2ceed792.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/wudi/.android/build-cache/50d2f0eb51f082c59f91e49c5a9d0726b3326e6c/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="/Users/wudi/resource/Tess-TwoDemo-master/app/build/intermediates/pre-dexed/debug/classes_31d1065ab9da33fe6e4d36b5ed70bffbc65fa479.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/wudi/.gradle/caches/modules-2/files-2.1/tony-common/tony-common-utils/1.1.0/24e2813d9434cf220d3d2e50827799d0609a60aa/tony-common-utils-1.1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="24e2813d9434cf220d3d2e50827799d0609a60aa">
+        <dex dex="/Users/wudi/resource/Tess-TwoDemo-master/app/build/intermediates/pre-dexed/debug/tony-common-utils-1.1.0_7d5c32b3b5315ac0699d88a6468c3600d73c8b52.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/wudi/.android/build-cache/415523070afb2116748e864cee63efd5b28c7b1b/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="9d99a4c201a6ebd58b0da57a0243edba883621fd">
+        <dex dex="/Users/wudi/resource/Tess-TwoDemo-master/app/build/intermediates/pre-dexed/debug/classes_7a51098f294ae875559695e04eec1cb70ea166be.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/wudi/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-stdlib/1.1.0/96a07041a11a09cf578892932d7511e1e11e3b6c/kotlin-stdlib-1.1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="96a07041a11a09cf578892932d7511e1e11e3b6c">
+        <dex dex="/Users/wudi/resource/Tess-TwoDemo-master/app/build/intermediates/pre-dexed/debug/kotlin-stdlib-1.1.0_d242e3e65ef97a07ae35fae2d284bad8b931195f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/wudi/.android/build-cache/4f2fa6dd2783e71a01c7bac2ae539c74a9d7b1d4/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="90b930477807fbf853e8ffd3eada100de58eb98f">
+        <dex dex="/Users/wudi/resource/Tess-TwoDemo-master/app/build/intermediates/pre-dexed/debug/classes_ac7d11a7b516bfa0af4edd587ebaaec2c1412c95.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/wudi/.gradle/caches/modules-2/files-2.1/com.safframework.injectview/saf-injectview-annotation/1.1.0/5efb83a7de2c159bec1806eef3499e249903759b/saf-injectview-annotation-1.1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="5efb83a7de2c159bec1806eef3499e249903759b">
+        <dex dex="/Users/wudi/resource/Tess-TwoDemo-master/app/build/intermediates/pre-dexed/debug/saf-injectview-annotation-1.1.0_a805593825bd9af1773b91367e464fb0788388b6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/wudi/.android/build-cache/183d71c66e3cc5fea3e3f70763750f3f3cd91329/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="be74583282e6fc5783bcb0d0e25d4ac4449e24e2">
+        <dex dex="/Users/wudi/resource/Tess-TwoDemo-master/app/build/intermediates/pre-dexed/debug/classes_7548fd573c9a2c275940fdb4bae2d8e3266dbff3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/wudi/.android/build-cache/0f4372bd442200138cc44d2b947c3c19e6166c2c/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="/Users/wudi/resource/Tess-TwoDemo-master/app/build/intermediates/pre-dexed/debug/classes_0be144d1cc01c4e86cc9d53ecae216afa776df29.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/wudi/.android/build-cache/38202b7f033408583c1e8b39acc6c0b1451a0284/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="/Users/wudi/resource/Tess-TwoDemo-master/app/build/intermediates/pre-dexed/debug/classes_d0dc830c79a1bf0de5012e1f56b42e2f7e425382.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/wudi/.android/build-cache/32f0544118c071f6eaf9f7ed5397f7d4bc524078/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4119ea97a7191ff9b8f33b534ea220448f62f491">
+        <dex dex="/Users/wudi/resource/Tess-TwoDemo-master/app/build/intermediates/pre-dexed/debug/classes_67955c620f328c51acf74913147b2e224ba046f9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/wudi/.gradle/caches/modules-2/files-2.1/org.reactivestreams/reactive-streams/1.0.0/14b8c877d98005ba3941c9257cfe09f6ed0e0d74/reactive-streams-1.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="14b8c877d98005ba3941c9257cfe09f6ed0e0d74">
+        <dex dex="/Users/wudi/resource/Tess-TwoDemo-master/app/build/intermediates/pre-dexed/debug/reactive-streams-1.0.0_1176001ff75620e89b960edf5a328d5f73494f3a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Applications/Android Studio.app/Contents/gradle/m2repository/org/jetbrains/annotations/13.0/annotations-13.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="919f0dfe192fb4e063e7dacadee7f8bb9a2672a9">
+        <dex dex="/Users/wudi/resource/Tess-TwoDemo-master/app/build/intermediates/pre-dexed/debug/annotations-13.0_21edf52381516d443969d7882e7626f8935be4b4.jar" />
+    </item>
+
+</items>
